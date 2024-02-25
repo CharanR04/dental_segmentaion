@@ -1,2 +1,1 @@
-# dental_segmentaion
- 
+# Dental Segmentation
